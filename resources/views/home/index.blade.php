@@ -19,7 +19,7 @@
                 <p>
                   <a class="btn btn-primary" href="{{ route('participants') }}">Lihat List Peserta QRIS</a>
                   <a class="btn btn-success" href="{{ route('events') }}">Lihat Chart Top 5 Event</a>
-                  <a class="btn btn-warning" href="{{ route('transactions') }}">Lihat Chart Total Nominal Transaksi QRIS Per Bulan</a>
+                  <a class="btn btn-warning" href="{{ route('transactions') }}">Lihat Chart Total Nominal Transaksi QRIS</a>
                   <a class="btn btn-danger" href="{{ route('participants.total_business') }}">Lihat Chart Total Usaha Peserta QRIS</a>
                 </p>
               </div>

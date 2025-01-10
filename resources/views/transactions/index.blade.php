@@ -24,6 +24,7 @@
           curveType: 'function',
           legend: { position: 'bottom' },
           vAxis: {
+            title: "Total Nominal Transaksi",
             viewWindow: {
               min:0
             },
@@ -32,6 +33,7 @@
             }
           },
           hAxis: {
+            title: "Bulan",
             textStyle: {
               fontSize: 10
             }
@@ -53,7 +55,7 @@
           <div class="container">
             <div class="card mt-5">
               <div class="card-header">
-                <h3>Chart Total Nominal Transaksi QRIS Per Bulan</h3>
+                <h3>Chart Total Nominal Transaksi QRIS</h3>
               </div>
               <div class="card-body">
                 <p>

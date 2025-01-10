@@ -41,7 +41,7 @@
           <div class="container">
             <div class="card mt-5">
               <div class="card-header">
-                <h3>Chart Total Nominal Transaksi QRIS Per Bulan</h3>
+                <h3>Chart Total Usaha Peserta QRIS</h3>
               </div>
               <div class="card-body">
                 <p>

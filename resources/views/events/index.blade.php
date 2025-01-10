@@ -22,7 +22,7 @@
           bars: 'horizontal',
           axes: {
             x: {
-              0: { side: 'left', label: 'Total Transaksi QRIS'}
+              0: { side: 'left', label: 'Total Transaksi'}
             }
           },
           hAxis: {
